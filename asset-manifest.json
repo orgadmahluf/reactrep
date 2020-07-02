@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactrep/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reactrep/static/js/main.ebef7e7d.chunk.js",
+    "main.js.map": "/reactrep/static/js/main.ebef7e7d.chunk.js.map",
+    "runtime-main.js": "/reactrep/static/js/runtime-main.92c3d247.js",
+    "runtime-main.js.map": "/reactrep/static/js/runtime-main.92c3d247.js.map",
+    "static/js/2.caf34de3.chunk.js": "/reactrep/static/js/2.caf34de3.chunk.js",
+    "static/js/2.caf34de3.chunk.js.map": "/reactrep/static/js/2.caf34de3.chunk.js.map",
+    "index.html": "/reactrep/index.html",
+    "precache-manifest.774a49293364a368b3eac56a9e8de2c9.js": "/reactrep/precache-manifest.774a49293364a368b3eac56a9e8de2c9.js",
+    "service-worker.js": "/reactrep/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reactrep/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.caf34de3.chunk.js.LICENSE.txt": "/reactrep/static/js/2.caf34de3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactrep/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92c3d247.js",
+    "static/js/2.caf34de3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ebef7e7d.chunk.js"
+  ]
+}
